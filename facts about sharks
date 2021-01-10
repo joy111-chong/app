@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Facts about shark</title>
+        <style>
+            h1{
+                color:rgb(0, 136, 255);
+            }
+            h2{
+                color:rgb(255, 234, 0);
+            }
+            body{
+                background:rgb(0, 21, 255);
+            }
+        </style>
+    </head>
+    <body>
+
+        <h1>facts about shark</h1>
+        <img src="https://www.kasandbox.org/programming-images/animals/shark.png" width="307">
+        <table>
+            <thead>
+                <tr>
+                    <th>what do they eat</th>
+                    <th>where do they live</th>
+                    <th>what do they like to do</th>
+                    <th>what they don't like</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>fish and turtles and may acidentally eat human</td>
+                    <td>ocean or sea</td>
+                    <td>eat and eat and eat and eat and eat and eat and eat and eat </td>
+                    <td>humans, killer whales, dolphins and seals</td>
+                </tr>
+                
+                <p>Shark looks scary but let me tell you the facts about shark</p>
+                <h2>zoom in!</h2>
+                <h2>what they eat</h2>
+                <p>Shark eats fishes turtles but not dolphin and killer whale and seals.Now you must be thinking but why?Well let me finish first.</p>
+                <h2>where they live</h2>
+                <p>if they live in seas they stay at the surface but in the water if is ocean they live in the twilight zone</p>
+                <h2>what they like to do</h2>
+                <p>they like to eat and eat and eat and eat just eat and of course they sleep zzzzzzzzzzzz...</p>              
+                <h2>what they don't like</h2>
+                <p>they don't like humans beacause humans always cut their fins and then throw them back to the sea isn't that terible and fins help shark to swim. They don't like dolphins beacause they come in pods and know where is the shark wickest point then they just bump the shark tummy and shark never come in pods or groups.Killer whales beacause if the killer whale can't find food it will eat the shark liver when they take out the shark liver they just throw the shark away they are not intrested to eat a shark heart or stomach.Seals beacause in 2013 a seal eat 5 kinds of shark surprise ha?</p> width="100">
+                <h2>trive your time</h2>
+                Did you know that actually the shark bone is very thin thin as paper.And a shark eats a human because they mistook it as a fish.And all the shark in the world only kill 6 people a year and all the people in the world kill 1,000,000 shark a year.So to protect the shark stop eating shark fin soup and also tell other people to stop eating shark fin soup and share this article to other people;) so this is me 
+                <h2>zooming out!</h2>
+<p>hey guys thanks for reading this article hope I give you a very specific facts about shark so even though the shark are scary we must protect them so there is a table below that show every thing about shark so above the table is my avatar so bye</p> 
+<img src="https://www.kasandbox.org/programming-images/avatars/aqualine-sapling.png" width="100">
+chongcftanpyjclyrclx
+            </tbody>
+        </table>
+        
+    </body>
+</html>
